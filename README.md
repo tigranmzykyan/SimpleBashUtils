@@ -1,2 +1,0 @@
-# SimpleBashUtils
-SimpleBashUtilic
